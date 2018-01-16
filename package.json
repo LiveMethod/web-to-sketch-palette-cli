@@ -1,0 +1,29 @@
+{
+  "name": "@ricksteele/make-sketch-palette",
+  "version": "1.0.0",
+  "description": "Input web colors, output sketch palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "palette": "bin/convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiveMethod/web-to-sketch-palette-cli.git"
+  },
+  "keywords": [
+    "sketch",
+    "colors",
+    "hexcode",
+    "palette",
+    "design"
+  ],
+  "author": "Rick Steele",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/LiveMethod/web-to-sketch-palette-cli/issues"
+  },
+  "homepage": "https://github.com/LiveMethod/web-to-sketch-palette-cli#readme"
+}
